@@ -1,4 +1,9 @@
 # Myntra Clone Project
+![Screenshot (292)](https://github.com/user-attachments/assets/869bc5d8-afc9-409e-bc20-32c21149080a)
+
+![Screenshot (294)](https://github.com/user-attachments/assets/46510e09-bab1-4ed4-adbf-8d4040a64c83)
+
+
 ## Project Overview
 This project is a clone of the popular e-commerce platform, Myntra, created using only HTML and CSS. The goal of this project is to replicate the basic structure and layout of Myntra’s homepage, focusing on its user interface design. This project aims to practice and demonstrate proficiency in web development using front-end technologies.
 
